@@ -23,18 +23,18 @@ The numerical model is based on conservation of mass (continuity equation) and m
 
 ## Contents
 
-- `BMET1800_CFD.pdf` — Full project report, including governing equations, numerical method, rocket nozzle simulation, and rocket body results
+- `BMET1800_CFD.pdf` - Full project report, including governing equations, numerical method, rocket nozzle simulation, and rocket body results
 - Velocity contour images at iterations 16, 49, and 62
 
 ## Key Sections in the Report
 
-1. **Simulation Overview** — domain setup and boundary conditions
-2. **Governing Equations** — continuity, Navier–Stokes, Reynolds number, and Bernoulli's equation
-3. **Numerical Method** — finite-volume discretisation and residual convergence
-4. **Rocket Nozzle Simulation** — converging-diverging nozzle behaviour, choked flow at the throat, and thrust estimation
-5. **Rocket Body CFD Results** — velocity contours at three solver iterations
-6. **Discussion** — effects of the nose cone, fins, and wake formation on drag
-7. **Key Aerodynamic Quantities** — summary table of velocity magnitude, dynamic pressure, Reynolds number, drag force/coefficient, and continuity
+1. **Simulation Overview** - domain setup and boundary conditions
+2. **Governing Equations** - continuity, Navier–Stokes, Reynolds number, and Bernoulli's equation
+3. **Numerical Method** - finite-volume discretisation and residual convergence
+4. **Rocket Nozzle Simulation** - converging-diverging nozzle behaviour, choked flow at the throat, and thrust estimation
+5. **Rocket Body CFD Results** - velocity contours at three solver iterations
+6. **Discussion** - effects of the nose cone, fins, and wake formation on drag
+7. **Key Aerodynamic Quantities** - summary table of velocity magnitude, dynamic pressure, Reynolds number, drag force/coefficient, and continuity
 
 ## Key Findings
 
